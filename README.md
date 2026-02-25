@@ -1,1 +1,70 @@
 # cuba-iptv-mix
+#EXTM3U
+
+# ---------- Cuban TV ----------
+# Cubavisión Internacional
+#EXTINF:-1 tvg-country="CU" group-title="Cuba",Cubavisión Internacional
+https://streamingcuba.otel.cu/cubavision.m3u8
+https://cdn.cubavision.icrt.cu/live/cubavision.m3u8
+
+# Canal Caribe
+#EXTINF:-1 tvg-country="CU" group-title="Cuba",Canal Caribe
+https://streamingcuba.otel.cu/canalcaribe.m3u8
+https://cdn.canalcaribe.icrt.cu/live/caribe.m3u8
+
+# Multivisión
+#EXTINF:-1 tvg-country="CU" group-title="Cuba",Multivisión
+https://streamingcuba.otel.cu/multivision.m3u8
+https://cdn.multivision.icrt.cu/live/multivision.m3u8
+
+# Tele Rebelde
+#EXTINF:-1 tvg-country="CU" group-title="Cuba",Tele Rebelde
+https://streamingcuba.otel.cu/telerebelde.m3u8
+https://cdn.telerebelde.icrt.cu/live/telerebelde.m3u8
+
+# Educativo
+#EXTINF:-1 tvg-country="CU" group-title="Cuba",Educativo
+https://streamingcuba.otel.cu/educativo.m3u8
+https://cdn.educativo.icrt.cu/live/educativo.m3u8
+
+# Canal Habana
+#EXTINF:-1 tvg-country="CU" group-title="Cuba",Canal Habana
+http://www.canalhabana.icrt.cu/stream/hls/playlist.m3u8
+
+# Prensa Latina TV
+#EXTINF:-1 tvg-country="CU" group-title="Cuba",Prensa Latina TV
+https://eu1.servers10.com:8081/8162/index.m3u8
+
+# ---------- Cuban Radio ----------
+# Radio Enciclopedia
+#EXTINF:-1 tvg-country="CU" group-title="Radio",Radio Enciclopedia
+https://icecast.teveo.cu/9Rnrbjzq
+
+# Radio Progreso
+#EXTINF:-1 tvg-country="CU" group-title="Radio",Radio Progreso
+http://stream.radiosdecuba.com/progreso
+
+# Radio Habana Cuba
+#EXTINF:-1 tvg-country="CU" group-title="Radio",Radio Habana Cuba
+http://stream.radiosdecuba.com/cubana
+
+# Radio Rebelde
+#EXTINF:-1 tvg-country="CU" group-title="Radio",Radio Rebelde
+http://stream.radiosdecuba.com/rebelde
+
+# Radio COCO
+#EXTINF:-1 tvg-country="CU" group-title="Radio",Radio COCO
+http://stream.radiosdecuba.com/coco
+
+# Radio Cadena Agramonte
+#EXTINF:-1 tvg-country="CU" group-title="Radio",Radio Cadena Agramonte
+http://stream.radiosdecuba.com/gramonte
+
+# Radio Taíno
+#EXTINF:-1 tvg-country="CU" group-title="Radio",Radio Taíno
+http://stream.radiosdecuba.com/taino
+
+# ---------- Miami Cuban Radio ----------
+# Ritmo 95.7 FM
+#EXTINF:-1 tvg-country="US" group-title="Radio",Ritmo 95.7
+https://liveaudio.lamusica.com/MIA_WRMA/playlist.m3u8
